@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "bt-ble-connect-poc",
+    "slug": "bt-ble-connect-poc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
