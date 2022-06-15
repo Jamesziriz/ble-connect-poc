@@ -16,7 +16,7 @@ cd ble-connect-poc && yarn install
 cd ios && pod install
 ```
 
-#### 2. Open RNS in your iOS simulator
+#### 2. Open App in your iOS simulator
 
 Run this command to start the development server and to start your app on iOS simulator:
 ```
