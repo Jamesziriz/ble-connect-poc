@@ -7,7 +7,7 @@ A Simple POC to connect and access service in bluetooth/ble device
 
 ```bash
 # Clone the repo
-git clone https://github.com/AmalMenachery/ble-connect-poc.git
+git clone https://github.com/Jamesziriz/ble-connect-poc.git
 
 # Navigate to clonned folder and Install dependencies
 cd ble-connect-poc && yarn install
